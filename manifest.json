@@ -1,0 +1,12 @@
+{
+  "name": "ZDCP MC Date",
+  "namespace": "zdcp-mc-date",
+  "description": "A managed component to log the current Date to the browser comsole",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "execute_unsafe_scripts": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": true
+    }
+  }
+}
